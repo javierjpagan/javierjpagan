@@ -24,21 +24,15 @@ Here are some ideas to get you started:
 
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
-![LESS](https://img.shields.io/badge/-LESS-black?style=flat-square&logo=less)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
-![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
-![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=symfony)
-![VueJS](https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=vue.js)
-![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)
-![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=nginx)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![GIMP](https://img.shields.io/badge/-GIMP-black?style=flat-square&logo=gimp)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
+
 
 ## GitHub Trophies
 

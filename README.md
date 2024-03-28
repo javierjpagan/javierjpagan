@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 
 

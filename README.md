@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 
 
-## GitHub Trophies
+<-- ## GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=joe1561)
+![Trophies](https://github-profile-trophy.vercel.app/?username=joe1561) -->
 
 ## Random Quote
-> - "Like I always say, can’t find a door? Make your own."
-> - –Edward Elric, Fullmetal Alchemist
+>  "Like I always say, can’t find a door? Make your own."
+>  –Edward Elric, Fullmetal Alchemist

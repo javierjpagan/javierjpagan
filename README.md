@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=joe1561)
 
-## Random Dev Quote
-
-> "Simplicity is prerequisite for reliability."
-> - Edsger W. Dijkstra
+## Random Quote
+> - "Like I always say, can’t find a door? Make your own."
+> - –Edward Elric, Fullmetal Alchemist

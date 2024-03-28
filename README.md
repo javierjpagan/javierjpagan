@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 ## Tech Stack:
 
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)

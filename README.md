@@ -11,14 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Socials:
+ <!-- ## GitHub Trophies
 
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram)](your_instagram_link)
-[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](your_medium_link)
-[![TikTok](https://img.shields.io/badge/-TikTok-black?style=flat-square&logo=tiktok)](your_tiktok_link)
-[![Twitch](https://img.shields.io/badge/-Twitch-black?style=flat-square&logo=twitch)](your_twitch_link)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](your_twitter_link)
-[![YouTube](https://img.shields.io/badge/-YouTube-black?style=flat-square&logo=youtube)](your_youtube_link)
+![Trophies](https://github-profile-trophy.vercel.app/?username=joe1561)  -->
 
 ## Tech Stack:
 
